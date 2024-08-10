@@ -44,6 +44,15 @@ npm run dev
 ```
 
 
+## Usuarios
+
+Usuario Cliente: prueba1@hotmail.com
+Contraseña: 123456
+
+Usuario Admin: prueba2@hotmail.com
+Contraseña: 123456
+
+
 > [!TIP]
 > [Postman Documentacion de endpoints](https://documenter.getpostman.com/view/37508003/2sA3s3Gr3c)
 
